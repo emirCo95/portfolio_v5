@@ -9,6 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {},
+      backgroundImage: {
+        'hero-pattern': "url('/bg.jpg')",
+      },
     },
   },
   plugins: [],
